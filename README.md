@@ -1,8 +1,10 @@
-Program Hakkında: Program kullanıcıdan 3 tamsayı girdisi beklemekte ve girlen sayılar arasından medyanı hesaplamaktadır.
+Program Hakkında:
 
-Nasıl Çalıştırılır?:
+Program kullanıcıdan 3 tamsayı girdisi beklemekte ve girlen sayılar arasından medyanı hesaplamaktadır.
 
-1)Seçtiğiniz 3 tamsayıyı sırasıyla giriniz. 
+Nasıl Çalıştırılır?
 
-2)Medyan değeri ekranda görüntülenecektir.
+1) Seçtiğiniz 3 tamsayıyı sırasıyla giriniz. 
+
+2) Medyan değeri ekranda görüntülenecektir.
 
