@@ -6,5 +6,5 @@ Nasıl Çalıştırılır?
 
 1)Seçtiğiniz 3 tamsayıyı sırasıyla giriniz. 
 
-2) Medyan değeri ekranda görüntülenecektir.
+2)Medyan değeri ekranda görüntülenecektir.
 
